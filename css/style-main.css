@@ -212,21 +212,12 @@ header{
 
 .scroll-bg{
     background: #46484e;
-    width: 600px;
+    width: 540px;
     margin: 10% auto;
 }
 .scroll-div{
-    width: 600px;
+    width: 540px;
     background: #46484e;
     height: 800px;
     overflow: hidden;
-}
-
-title{
-    display: flex;
-    flex-direction: row;
-}
-subtitle{
-    display: flex;
-    flex-direction: row;
 }

@@ -220,5 +220,13 @@ header{
     background: #46484e;
     height: 800px;
     overflow: hidden;
-    overflow-y: scroll;
+}
+
+title{
+    display: flex;
+    flex-direction: row;
+}
+subtitle{
+    display: flex;
+    flex-direction: row;
 }

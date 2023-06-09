@@ -6,6 +6,9 @@
     text-decoration: none;
     list-style: none;
 }
+a{
+    color: #808080;
+}
 :root{
     --bg-color: #222327;
     --text-color: #fff;
